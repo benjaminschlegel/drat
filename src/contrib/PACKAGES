@@ -1,0 +1,6 @@
+Package: schlegel
+Version: 0.0.3
+Depends: R (>= 3.5.0)
+License: GPL (>= 2)
+MD5sum: 89db7b662789ff054ee52e0e2685ea9b
+NeedsCompilation: no
